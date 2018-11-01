@@ -4,10 +4,17 @@ It creates an empty repository that you can then commit different files to. You 
 create a repository from the command line.
 
 How is the staging area different from the working directory and the repository?
+
+It shows files that are ready to be committed but have not been yet. 
+
 What value do you think it offers?
+
+You can double check your changes and make sure you really want to commit them.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+You can check what has been added and decide what to commit based on what you see.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
